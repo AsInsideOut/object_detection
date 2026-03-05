@@ -1,6 +1,7 @@
 # Object Detection
 
 Detect objects in your video.
+
 ----------INSTRUCTIONS----------
 1) Download main.py
 2) Move the file to any folder
