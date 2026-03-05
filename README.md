@@ -24,6 +24,9 @@ That's it!
 Good luck.
 
 Telegram: @hyeplet231
+
 TikTok: @heyr1xx
+
 Reddit: u/AsInsideOut
+
 YouTube: @AsInsideOut
